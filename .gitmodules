@@ -1,0 +1,3 @@
+[submodule "testing/citest/citest"]
+	path = testing/citest/citest
+	url = git@github.com:armory-io/citest.git

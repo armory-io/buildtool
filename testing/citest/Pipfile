@@ -1,0 +1,11 @@
+[packages]
+google-compute-engine = ">=2.8.13"
+cffi = ">=1.12.2"
+google-cloud-storage = ">=1.14.0"
+google-cloud-pubsub = ">=0.40.0"
+retrying = ">=1.3.3"
+pyOpenSSL = ">=19.0.0"
+citest = {editable = true, path = "./citest"}
+
+[dev-packages]
+ 
